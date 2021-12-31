@@ -14,7 +14,7 @@ public class CreateContactTest
 	public void createContactTest()
 	{
 
-		String browser = System.getProperty("browser");
+		/*String browser = System.getProperty("browser");
 		String url = System.getProperty("url");
 		if(browser.equals("firefox"))
 		{
@@ -29,7 +29,7 @@ public class CreateContactTest
 			driver=new InternetExplorerDriver();
 		}
 		
-		driver.get(url);
+		driver.get(url);*/
 			System.out.println("create contact");
 		
 	}
